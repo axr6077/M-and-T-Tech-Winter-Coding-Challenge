@@ -10,5 +10,5 @@ Week 1
 
 Week 2
 
-3. [Encryption] (https://github.com/axr6077/M-and-T-Tech-Winter-Coding-Challenge/blob/main/Medium/encryption.py)
+3. [Encryption](https://github.com/axr6077/M-and-T-Tech-Winter-Coding-Challenge/blob/main/Medium/encryption.py)
 4. 
