@@ -7,3 +7,5 @@ Week 1
 
 1. [Modified Fibonacci](https://github.com/axr6077/M-and-T-Tech-Winter-Coding-Challenge/blob/main/Medium/modFibonacci.py) 
 2. [Savita and Friends](https://github.com/axr6077/M-and-T-Tech-Winter-Coding-Challenge/blob/main/Hard/savitaAndFriends.py)
+
+Week 2
